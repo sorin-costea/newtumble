@@ -1,0 +1,12 @@
+# Eclipse
+.classpath
+.project
+.settings/
+ 
+# sensitives
+application.properties
+ 
+# Maven
+log/
+target/
+.factorypath
